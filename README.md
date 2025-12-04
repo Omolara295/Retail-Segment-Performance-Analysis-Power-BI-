@@ -54,17 +54,25 @@ This dashboard provides a 360-degree view of sales performance across customer s
 It highlights key performance indicators (KPIs) and visualizes trends that help stakeholders understand where revenue is generated, 
 which customers drive growth, and how product lines are performing.
 
-✅ Conclusion
+## ✅ Conclusion
 The analysis reveals that focusing on high-performing customer segments and profitable product categories can significantly boost overall revenue. 
 The Corporate segment and Technology category are particularly strong contributors to profit, while regional trends suggest opportunities for targeted marketing and inventory optimization.
 
-💡 Recommendations
+## 💡 Recommendations
 * Prioritize inventory and marketing efforts toward Technology products and Corporate clients
 * Investigate low-performing customers and segments for potential churn or service improvement
 * Optimize discount strategies to balance sales volume and profitability
 * Leverage monthly sales trends for seasonal planning and promotional campaigns
 * Expand presence in high-performing regions like Central and East to maximize growth
 
+
+## 📌 How to Use
+Open the .pbix file in Power BI Desktop.
+Use filters to explore performance across different dimensions.
+Review insights to guide future marketing strategies.
+
+## 💡Note
+Make sure Power BI Desktop is installed to open the .pbix file.
 
 
 
