@@ -3,10 +3,19 @@
 This project presents a comprehensive sales analysis of a retail store specializing in consumer electronics such as cameras and printers. 
 The dataset was sourced from Excel and imported into Power BI for in-depth analysis and visualization.
 
+<img width="1288" height="726" alt="image" src="https://github.com/user-attachments/assets/964b978a-ba5f-429c-b57f-b8f38ba42de5" />
+
+
 ## 📝 Introduction
 This project presents a comprehensive sales analysis of a retail store specializing in consumer electronics such as cameras, printers, and office equipment. 
 The goal was to explore customer behavior, segment performance, and product profitability using interactive visualizations. 
 The analysis was conducted using Power BI, with data sourced from Excel and transformed to uncover actionable insights that support strategic decision-making.
+
+## 📁 Files
+- RetailSegmentDashboard.pbix – Power BI dashboard
+- Retail Segment Data.csv – Raw dataset used for analysis
+- README.md – Project documentation
+
 
 
 ## 🛠️ Tools Used
